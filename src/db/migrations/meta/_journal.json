@@ -15,6 +15,13 @@
       "when": 1770099742301,
       "tag": "0001_cynical_namor",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1770102086869,
+      "tag": "0002_tiresome_gladiator",
+      "breakpoints": true
     }
   ]
 }
