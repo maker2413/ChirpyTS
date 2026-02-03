@@ -8,6 +8,13 @@
       "when": 1770013550690,
       "tag": "0000_sleepy_secret_warriors",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770099742301,
+      "tag": "0001_cynical_namor",
+      "breakpoints": true
     }
   ]
 }
