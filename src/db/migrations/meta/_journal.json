@@ -22,6 +22,13 @@
       "when": 1770102086869,
       "tag": "0002_tiresome_gladiator",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1770275045302,
+      "tag": "0003_curious_ricochet",
+      "breakpoints": true
     }
   ]
 }
